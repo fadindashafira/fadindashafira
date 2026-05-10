@@ -4,7 +4,7 @@
 
 # Fadinda Shafira
 
-**Applied AI Lead · Physics × Biology × Intelligence**
+**Applied AI Lead · Life Sciences & Healthcare**
 
 [![Nextflow Ambassador](https://img.shields.io/badge/Nextflow-Global_Ambassador-49A849?style=flat-square&logo=nextflow&logoColor=white)](https://nextflow.io)
 [![Location](https://img.shields.io/badge/Jakarta-Indonesia-CE1126?style=flat-square)](https://github.com/fadindashafira)
@@ -14,21 +14,19 @@
 
 ---
 
-Physicist by training. AI engineer by practice. I build machine learning systems that take science seriously — grounded in domain knowledge, designed for real-world deployment, and held to rigorous validation standards.
-
-My work spans **medical imaging AI**, **bioinformatics pipelines**, **physics-informed ML**, and **scientific workflow automation** — mostly in healthcare and life sciences.
+I build and deploy AI systems for healthcare and life sciences — from medical imaging and bioinformatics to scientific workflow automation and LLM applications. 4+ years leading applied AI from research through production, with a strong focus on rigorous validation and domain-grounded design.
 
 ---
 
 ### Interests
 
 ```
-AI for Science               # physics-informed ML, surrogate modeling, simulation intelligence
-Bioinformatics               # genomics pipelines, biological reasoning, sequence analysis
 Medical Imaging AI           # computer vision, VLM, pathology, diagnostic systems
+Bioinformatics               # genomics pipelines, biological reasoning, sequence analysis
+AI for Science               # physics-informed ML, surrogate modeling, simulation intelligence
 LLM & Agent Systems          # domain-specific LLMs, RAG, multi-agent frameworks
 Scientific Workflows         # reproducible, scalable pipelines with Nextflow
-AI Governance & Validation   # SaMD, model lifecycle, responsible deployment
+AI Governance & Validation   # SaMD, ISO 62304, model lifecycle, responsible deployment
 ```
 
 ---
@@ -63,7 +61,7 @@ AI Governance & Validation   # SaMD, model lifecycle, responsible deployment
 
 ### Nextflow Global Ambassador 🌏
 
-Representing Indonesia in the [Nextflow](https://nextflow.io) community (Chan Zuckerberg Initiative). I write, teach, and speak about reproducible scientific workflows for bioinformatics and AI/ML research in life sciences.
+Representing Indonesia in the [Nextflow](https://nextflow.io) community (Chan Zuckerberg Initiative) — advocating for reproducible, scalable scientific workflows in bioinformatics and life sciences AI.
 
 - 📖 Author — *Nextflow Fundamentals* (book + LMS course)
 - 🎓 Teaching Assistant — Master's in Bioinformatics, Universitas Indonesia (2024 & 2025)
@@ -71,14 +69,8 @@ Representing Indonesia in the [Nextflow](https://nextflow.io) community (Chan Zu
 
 ---
 
-### Background
-
-Physics graduate (Universitas Indonesia, Cum Laude) with a thesis on AI-based urinalysis using deep learning and smartphone colorimetry. That project — turning a camera and a test strip into a diagnostic tool — set the direction for everything since: **physics intuition + biological context + machine learning**.
-
----
-
 <div align="center">
 
-*Physics intuition. Biological context. Machine learning.*
+*Applied AI for science that matters.*
 
 </div>
