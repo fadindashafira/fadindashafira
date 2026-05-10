@@ -1,5 +1,3 @@
-<!-- GitHub Profile README · fadindashafira -->
-
 <div align="center">
 
 # Fadinda Shafira
